@@ -1,0 +1,11 @@
+# Secrets and local Python environment
+.env
+.venv/
+
+# Python cache and editor state
+__pycache__/
+*.py[cod]
+.vscode/
+
+# Local operating-system files
+.DS_Store
